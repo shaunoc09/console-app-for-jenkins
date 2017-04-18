@@ -20,5 +20,10 @@ namespace Tests
             Helper helper = new Helper();
             Assert.AreEqual(false, helper.IsEmpty("Test"));
         }
+        [TestMethod]
+        public void FalingTest()
+        {
+            Assert.AreEqual(true, false);
+        }
     }
 }
