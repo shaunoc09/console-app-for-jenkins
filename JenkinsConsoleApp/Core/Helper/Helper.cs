@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace JenkinsConsoleApp.Core.Helper
+﻿namespace JenkinsConsoleApp.Core.Helper
 {
-    public class Helper
+    public class Helper : IHelper
     {
         public bool IsEmpty(string value)
         {
