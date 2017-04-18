@@ -1,0 +1,14 @@
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Tests.deps.json
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.json
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.dev.json
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Tests.dll
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\Tests.pdb
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\JenkinsConsoleApp.dll
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\bin\Debug\netcoreapp1.1\JenkinsConsoleApp.pdb
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\obj\Debug\netcoreapp1.1\Tests.csprojResolveAssemblyReference.cache
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\obj\Debug\netcoreapp1.1\Tests.AssemblyInfo.cs
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\obj\Debug\netcoreapp1.1\Tests.dll
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\Tests\obj\Debug\netcoreapp1.1\Tests.pdb

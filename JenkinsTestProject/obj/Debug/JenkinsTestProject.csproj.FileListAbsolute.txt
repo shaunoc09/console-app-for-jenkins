@@ -1,0 +1,14 @@
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\obj\Debug\JenkinsTestProject.csprojResolveAssemblyReference.cache
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\JenkinsTestProject.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\JenkinsTestProject.pdb
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\obj\Debug\JenkinsTestProject.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\obj\Debug\JenkinsTestProject.pdb
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\JenkinsConsoleApp.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsTestProject\bin\Debug\JenkinsConsoleApp.pdb

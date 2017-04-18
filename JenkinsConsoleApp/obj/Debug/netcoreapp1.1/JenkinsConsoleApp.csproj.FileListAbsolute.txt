@@ -1,0 +1,9 @@
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\netcoreapp1.1\JenkinsConsoleApp.deps.json
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\netcoreapp1.1\JenkinsConsoleApp.runtimeconfig.json
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\netcoreapp1.1\JenkinsConsoleApp.runtimeconfig.dev.json
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\netcoreapp1.1\JenkinsConsoleApp.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\bin\Debug\netcoreapp1.1\JenkinsConsoleApp.pdb
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\netcoreapp1.1\JenkinsConsoleApp.AssemblyInfo.cs
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\netcoreapp1.1\JenkinsConsoleApp.dll
+c:\users\shaun.oconnor\documents\visual studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\netcoreapp1.1\JenkinsConsoleApp.pdb
+C:\Users\shaun.oconnor\Documents\Visual Studio 2017\Projects\JenkinsConsoleApp\JenkinsConsoleApp\obj\Debug\netcoreapp1.1\JenkinsConsoleApp.csprojResolveAssemblyReference.cache
